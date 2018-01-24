@@ -1,0 +1,22 @@
+{
+  "name": "arduino-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierroberto/arduino-tutorial.git"
+  },
+  "author": "Pier Roberto Lucisano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierroberto/arduino-tutorial/issues"
+  },
+  "homepage": "https://github.com/pierroberto/arduino-tutorial#readme",
+  "dependencies": {
+    "johnny-five": "^0.13.0"
+  }
+}
